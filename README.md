@@ -68,4 +68,9 @@ githubUsername: 'Kavisha4'
 <br>
 
 
+![Kavisha4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavisha4&theme=prussian&hide_border=true)
+
+
 ![Kavisha4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+![Kavisha4's Stats](https://github-readme-stats.vercel.app/api?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&count_private=true)
