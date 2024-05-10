@@ -67,10 +67,18 @@ githubUsername: 'Kavisha4'
 <br>
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavisha4&theme=prussian&hide_border=true" width="400px" />
+</div>
 
-![Kavisha4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavisha4&theme=prussian&hide_border=true)
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="400px" />
+</div>
 
-![Kavisha4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<br>
 
-![Kavisha4's Stats](https://github-readme-stats.vercel.app/api?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavisha4&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="400px" />
+</div>
